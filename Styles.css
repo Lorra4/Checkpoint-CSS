@@ -1,0 +1,58 @@
+nav{
+    display: inline;
+    font-size: 45px;
+    word-spacing: 10px;
+    margin-right: auto;
+    text-decoration: none;
+}
+.navbar{
+    display:flex;
+    justify-content: space-evenly;
+    text-decoration-line: none;
+}
+
+section.top-page{
+background: url('ppl.jpg');
+}
+h1{
+    font-size: 40px;
+    color: skyblue;
+    text-align: center;
+    
+}
+.lo{
+    color: plum;
+    text-align: center;
+    font-size: 40px;
+}
+body{
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+body{
+    font-family:  "Roboto", sans-serif;
+    background-color: grey;
+}
+.click{
+    font-size: 15px;
+    color:blue;
+    text-align: center;
+    border-style: outset;
+}
+h2{
+    font-size: 30px;
+    color:blueviolet;
+}
+h3{
+    font-size: 30px;
+    color: blueviolet;
+}
+footer{
+    text-align: center;
+    color: blue;
+    font-size: 25px;
+}
